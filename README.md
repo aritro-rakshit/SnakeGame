@@ -1,9 +1,9 @@
 ### Hi there, I'm Aritro Rakshit - aka [Coder][ytb] 👋
 
-[![ytb]https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
+[![ytb] https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
 
 
-## I'm a COder , Developer
+## I'm a Coder , Developer
 
 - 🔭 I’m Owner of this REpo [ytb]!
 - 🌱 I’m currently learning everything 🤣
