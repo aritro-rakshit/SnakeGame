@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am a Gamer Do visit it [ytb]
 ### Spotify Playing 🎧
-[<img src="https://now-playing-Aritro rakshit.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qoza13yffhtep3yb3rohymdam)
+[<img src="https://now-playing-Aritro rakshit.vercel.app/api/spotify-playing" alt="Aritro Rakshit_spotify Playing" width="350" />](https://open.spotify.com/user/qoza13yffhtep3yb3rohymdam)
 
 
 
