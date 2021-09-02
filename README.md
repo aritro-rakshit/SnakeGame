@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Aritro Rakshit 
 
-[ytb](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
+[ytb](https://www.youtube.com/channel/UC6hVY2YRc7cbEmXdD7BT24g/videos)
 
 ### 📺 Latest YouTube Videos
 
